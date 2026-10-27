@@ -1,5 +1,29 @@
 # QST-002 · Base888 Quantum Geometry / Standard Model Bridge
 
+<!-- ENUMINOUS-UNIFIED-NAV:START -->
+## Repository navigation
+
+**eNuminous network:** [All public repositories](https://github.com/enuminous/EFMW/blob/main/REPOSITORY_NAVIGATION.md) · [EFMW](https://github.com/enuminous/EFMW) · [102 equations](https://github.com/enuminous/Monolithic_102_EFMW) · [Frozen Lean](https://github.com/enuminous/Monolithic-102-Zoo-Lean4) · [Zoo](https://github.com/enuminous/Tortoise) · [Papers](https://github.com/enuminous/papers) · [Quantum geometry](https://github.com/enuminous/Base888-Quantum-Geometry)
+
+**This project:** [Repository home](https://github.com/enuminous/QST) · [Subject index](https://github.com/enuminous/EFMW/blob/main/REPOSITORY_NAVIGATION.md#fundamental-physics-cosmology-and-quantum-geometry)
+
+<details open>
+<summary><strong>On this page</strong></summary>
+
+- [Start](#start)
+- [What IS calculated](#what-is-calculated)
+- [Files](#files)
+- [Interpretation](#interpretation)
+
+
+</details>
+
+**Related repositories:** [Quantum-Gravity](https://github.com/enuminous/Quantum-Gravity) · [Base888-Quantum-Geometry](https://github.com/enuminous/Base888-Quantum-Geometry) · [Standard-Model-Reduction](https://github.com/enuminous/Standard-Model-Reduction) · [EFMW-Lagrangian](https://github.com/enuminous/EFMW-Lagrangian) · [papers](https://github.com/enuminous/papers) · [Cosmology](https://github.com/enuminous/Cosmology) · [FieldSpace](https://github.com/enuminous/FieldSpace) · [EFMW](https://github.com/enuminous/EFMW)
+
+> **Evidence boundary:** A link between projects is navigation, not an assertion of proven equivalence, experimental validation, or shared authorship. See each repository’s own status and review notes.
+<!-- ENUMINOUS-UNIFIED-NAV:END -->
+
+
 **Status: conditional mathematics, not a complete quantum theory of spacetime.**  
 **Date: 2026-10-27** · **Flat-stacked GitHub research release**
 
