@@ -1,0 +1,58 @@
+{
+  "model": "QST-002 exact candidate calculations",
+  "source_states": 888,
+  "finite_CCR_obstruction": {
+    "dimension": 888,
+    "commutator_trace": 0,
+    "imaginary_part_of_i_identity_trace": 888,
+    "frobenius_residual_lower_bound_hbar_1": 29.79932885150268,
+    "exact_canonical_CCR_possible": false
+  },
+  "diffusion_time": 8.0,
+  "ring_spectral_dimension": 1.0167118262988826,
+  "assumed_torus_shape": [
+    8,
+    3,
+    37
+  ],
+  "assumed_torus_spectral_dimension": 1.186434793218547,
+  "quantum_link": {
+    "prob_high": 0.5,
+    "mean_length": 1.5,
+    "variance": 0.25,
+    "rms_fluctuation": 0.5,
+    "base888_factorization": "C^888 = C^2 tensor C^444"
+  },
+  "entanglement_correlations": {
+    "single_link_variance": 0.25,
+    "two_independent_total_variance": 0.5,
+    "two_entangled_total_variance": 1.0,
+    "covariance_entangled": 0.25
+  },
+  "SM_anomaly_checks": {
+    "U1_cubed": "0",
+    "gravitational_U1": "0",
+    "SU2_squared_U1": "0",
+    "SU3_squared_U1": "0",
+    "SU3_cubed": "0",
+    "SU2_global_even_doublets": true,
+    "generations_assumed": 3,
+    "left_chiral_states_per_generation_with_nuR": 16,
+    "states_selected": 48,
+    "unused_888_dimension": 840,
+    "note": "These representations were assigned; no microscopic selection rule is derived."
+  },
+  "memory_modes": {
+    "omega_sq_minus": 0.9793093674254452,
+    "omega_sq_plus": 4.020690632574555,
+    "linearly_stable": true
+  },
+  "assumed_EFT_TT_mode": {
+    "k": 1,
+    "omega": 1,
+    "vacuum_variance_q": 0.5,
+    "count_TT_helicities": 2,
+    "status": "conditional continuum effective field theory, not derived from Base888"
+  },
+  "scientific_status": "Mathematical toy checks only; no derived spacetime, SM or UV complete quantum gravity"
+}
